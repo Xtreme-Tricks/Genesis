@@ -25,3 +25,4 @@ On Genesis admin pages, see the contextual help via the Help tab in the top righ
 
 Please visit http://my.studiopress.com/help/ for further theme support.
 
+# Genesis
