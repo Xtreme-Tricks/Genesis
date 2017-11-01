@@ -27,3 +27,4 @@ Please visit http://my.studiopress.com/help/ for further theme support.
 
 # Genesis
 # Genesis
+# Genesis
